@@ -1,0 +1,1 @@
+puppet        ALL=(ALL)        NOPASSWD: ALL
